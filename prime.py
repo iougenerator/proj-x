@@ -20,5 +20,6 @@ elif num > 1:
     # check if flag is True
     if flag:
         print(num, "is not a prime number")
+#this code can be made more simpler
     else:
         print(num, "is a prime number"
